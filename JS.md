@@ -41,4 +41,4 @@ reorder(getItems(3), 0, 2);
 //   {id: "item-2", content: "item 2"},
 //   {id: "item-0", content: "item 0"}
 // ]
-``
+```
